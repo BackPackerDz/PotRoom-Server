@@ -1,0 +1,16 @@
+{
+  "name": "PotRoom",
+  "version": "0.0.0",
+  "description": "Talkie walkie app",
+  "main": "index.js",
+  "author": "Fayçal Kaddouri",
+  "private": true,
+  "license": "BSD",
+  "dependencies": {
+    "express": "4.13.4",
+    "socket.io": "^2.0.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
